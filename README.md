@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keagan
 - 👀 I’m interested in Dancing and learning to code
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Javascript, html, css.
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me email
 - 😄 Pronouns: ...
